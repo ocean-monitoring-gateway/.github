@@ -4,7 +4,9 @@ We are a collaborative and multidisciplinary research team bringing together sci
 
 🌊 **Visit our website at [https://ifremer-lirmm-openlab.github.io/](https://ifremer-lirmm-openlab.github.io/)** 🌊
 
-> Contacts :
-> 
-> - Sylvain Bonhommeau (Researcher, Ifremer) : sylvain.bonhommeau@ifremer.fr
-> - Serge Bernard (Researcher, CNRS) : serge.bernard@lirmm.fr
+--- 
+
+Contacts:
+
+- Sylvain Bonhommeau (Researcher, Ifremer) : sylvain.bonhommeau@ifremer.fr
+- Serge Bernard (Researcher, CNRS) : serge.bernard@lirmm.fr
